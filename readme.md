@@ -1,5 +1,4 @@
-# hello world
-Hello there
-#Changes from GitHub <br>  Again change from GitHub
-#3rd time change
-local change 
+# Web Technologies Lab
+## CSE 0612 2260
+
+This repository contains my lab work and practice programs for the Web Technologies course. 
