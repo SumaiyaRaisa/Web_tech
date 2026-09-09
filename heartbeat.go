@@ -16,7 +16,7 @@ func heartbitCheck(w http.ResponseWriter , r *http.Request) {
 
 }
 
-func main() {
+func main(){
 
 	http.HandleFunc("/heartbit",heartbitCheck)
 
